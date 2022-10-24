@@ -19,6 +19,7 @@ Me formei em técnico em informática pela ETEC Jorge Street em 2019 e logo no a
 
 Tenho estudado tanto por meio da faculdade, como por fora, outras tecnologias como python, React e Kotlin (para Android), e por meio desse perfil, deixarei alguns projetos que tenho trabalhado ao longo da minha jornada :D.
 
+<!--
 ## Contact
 
 <p align="left" style="background:yellow">
@@ -29,7 +30,7 @@ Tenho estudado tanto por meio da faculdade, como por fora, outras tecnologias co
  <img align="center" src="https://img.shields.io/badge/-arthur-cabral-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
+-->
 <br>
 <br>
 
