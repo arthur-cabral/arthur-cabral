@@ -23,9 +23,17 @@ Tenho estudado tanto por meio da faculdade, como por fora, outras tecnologias co
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/arthur-cabral-89130b1a3/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-arthur-cabral-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/tuco_martins/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-arthur-cabral-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+</p>
+
+<br>
+<br>
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=arthur-cabral&show_icons=true&theme=vision-friendly-dark" alt="arthur-cabral's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cabral&layout=compact&theme=vision-friendly-dark" alt="arthur-cabral's most languages"/>
 </p>
