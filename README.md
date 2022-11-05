@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Me formei em técnico em informática pela ETEC Jorge Street em 2019 e logo no ano seguinte, iniciei um bacharelado em ciência da computação. Em 2021 entrei como estágiário no C6 Bank e desde então, trabalho com a customização da plataforma ServiceNow por meio da linguagem JavaScript. 
+Me formei em técnico em informática pela ETEC Jorge Street em 2019 e logo no ano seguinte, iniciei um bacharelado em ciência da computação pela SPTech School. Em 2021 entrei como estágiário no C6 Bank e desde então, trabalho com a customização da plataforma ServiceNow por meio da linguagem JavaScript. 
 
 Tenho estudado tanto por meio da faculdade, como por fora, outras tecnologias como python, React e Kotlin (para Android), e por meio desse perfil, deixarei alguns projetos que tenho trabalhado ao longo da minha jornada :D.
 
