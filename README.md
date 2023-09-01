@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Me formei em técnico em informática pela ETEC Jorge Street em 2019 e logo no ano seguinte, iniciei um bacharelado em ciência da computação pela SPTech School. Em 2021 entrei como estágiário no C6 Bank trabalhando com customização da plataforma ServiceNow, e atualmente estou buscando vagas de desenvolvedor Back-end.
+Me formei em técnico em informática pela ETEC Jorge Street em 2019 e logo no ano seguinte, iniciei um bacharelado em ciência da computação pela SPTech School. No início de 2023 eu atuei como desenvolvedor full-stack na Izio&CO, e atualmente estou buscando vagas de desenvolvedor Back-end.
 
-Tenho estudado tanto por meio da faculdade, como por fora, outras tecnologias como python, React e Kotlin (para Android), e por meio desse perfil, deixarei alguns projetos que tenho trabalhado ao longo da minha jornada :D.
+Tenho estudado tanto por meio da faculdade, como por fora, outras tecnologias como Spring Boot 3 e .NET 6, e por meio desse perfil, deixarei alguns projetos que tenho trabalhado ao longo da minha jornada :D.
 
 <!--
 ## Contact
