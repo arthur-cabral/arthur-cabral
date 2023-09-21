@@ -37,5 +37,3 @@ Tenho estudado tanto por meio da faculdade, como por fora, outras tecnologias co
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cabral&layout=compact&theme=vision-friendly-dark" alt="arthur-cabral's most languages"/>
 </p>
-
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-cabral&show_icons=true&theme=transparent)
