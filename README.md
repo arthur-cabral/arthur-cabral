@@ -15,22 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Me formei em técnico em informática pela ETEC Jorge Street em 2019 e logo no ano seguinte, iniciei um bacharelado em ciência da computação pela SPTech School. No início de 2023 eu atuei como desenvolvedor full-stack na Izio&CO, e atualmente estou buscando vagas de desenvolvedor Back-end.
+Formado como técnico em informática pela ETEC Jorge Street em 2019 e formado em bacharelado em ciência da computação pela SPTech School no final de 2023. 
+Possuo algumas experiências como desenvolvedor Full-Stack e atualmente estou buscando vagas de desenvolvedor Back-End ou Full-Stack.
 
-Tenho estudado tanto por meio da faculdade, como por fora, outras tecnologias como Spring Boot 3 e .NET 6, e por meio desse perfil, deixarei alguns projetos que tenho trabalhado ao longo da minha jornada :D.
+Tenho estudado linguagens como Java e C#, além de outras tecnologias como Spring Boot, .NET, SQL, Docker, AWS, entre outras, e por meio desse perfil, deixarei alguns projetos que tenho trabalhado ao longo da minha jornada :D
 
-<!--
-## Contact
+## Contato
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/arthur-cabral-89130b1a3/" target="_blank">
+<a href="https://www.linkedin.com/in/arthur-cabral-de-souza-martins/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-arthur-cabral-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/tuco_martins/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-arthur-cabral-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href = "mailto:arthurmartins10052002@gmail.com" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
--->
 <br>
 <br>
 
