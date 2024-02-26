@@ -20,19 +20,13 @@ Possuo algumas experiências como desenvolvedor Full-Stack e atualmente estou bu
 
 Tenho estudado linguagens como Java e C#, além de outras tecnologias como Spring Boot, .NET, SQL, Docker, AWS, entre outras, e por meio desse perfil, deixarei alguns projetos que tenho trabalhado ao longo da minha jornada :D
 
-## Contato
-
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/arthur-cabral-de-souza-martins/">
-  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href = "mailto:arthurmartins10052002@gmail.com">
-  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-</p>
-<br>
-<br>
-
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cabral&layout=compact&theme=vision-friendly-dark" alt="arthur-cabral's most languages"/>
 </p>
+
+## Entre em contato! 📞✉️
+
+Telefone: +55 (11) 97758-3267 <br>
+Email: arthurmartins10052002@gmail.com <br>
+Linkedin: https://www.linkedin.com/in/arthur-cabral-de-souza-martins/
+
