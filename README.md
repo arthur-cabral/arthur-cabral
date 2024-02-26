@@ -24,7 +24,7 @@ Tenho estudado linguagens como Java e C#, além de outras tecnologias como Sprin
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/arthur-cabral-de-souza-martins/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-arthur-cabral-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href = "mailto:arthurmartins10052002@gmail.com" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
