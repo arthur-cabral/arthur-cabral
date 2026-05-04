@@ -1,7 +1,7 @@
 ### Opa, seja bem-vindo ao meu perfil! 👋
 
 ## Resumo
-Olá, me chamo Arthur, tenho 22 anos e sou apaixonado pela área de desenvolvimento de software.
+Olá, me chamo Arthur, tenho 23 anos e sou apaixonado pela área de desenvolvimento de software.
 Me formei em bacharelado em ciência da computação pela SPTech School no final de 2023 e como técnico em informática pela ETEC Jorge Street em 2019. Neste perfil armazeno e atualizo meus repositórios tanto de ideias para projetos pessoais, como exercícios de cursos.
 Possuo algumas experiências como desenvolvedor Full-Stack e atualmente estou buscando vagas de desenvolvedor Back-End ou Full-Stack.
 
