@@ -27,7 +27,6 @@ Possuo algumas experiências como desenvolvedor Full-Stack e atualmente estou bu
 
 ## Entre em contato! 📞✉️
 
-Telefone: +55 (11) 97758-3267 <br>
 Email: arthurmartins10052002@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/arthur-cabral-de-souza-martins/
 
